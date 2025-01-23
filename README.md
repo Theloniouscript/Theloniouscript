@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Theloniouscript
+- 👀 I’m interested in game design and development and VFX
+- 🌱 I’m currently learning Unreal Engine and programming with C# and C++
+- 💞️ I’m looking to collaborate on my city building game prototype 
+- 📫 How to reach me: ecodeltaplan@gmail.com
